@@ -1,0 +1,14 @@
+{
+"name": "fizzbuzz",
+"version": "1.0.0",
+"description": "Program to demonstrate TDD in JavaScript.",
+"main": "index.js",
+"scripts": {
+    "test": "jest"
+},
+"author": "BargerVA <BargerVA@dukes.jmu.edu>",
+"license": "MIT",
+"devDependencies": {
+    "jest": "^25.1.0"
+    }
+}
